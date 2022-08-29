@@ -1,7 +1,6 @@
 # autoriz
 
-A new Flutter project.
-
+Авторизация для приложения GetPower
 ## Getting Started
 
 This project is a starting point for a Flutter application.
